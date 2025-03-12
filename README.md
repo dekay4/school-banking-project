@@ -18,5 +18,3 @@ A simple banking system for students, built using **PHP, MySQL, JavaScript, jQue
 - **Backend:** PHP, MySQL  
 - **Security:** SQL injection prevention  
 
-## 📂 Project Structure  
-/student-bank-system ├── index.php # Homepage ├── register.php # User registration ├── login.php # User login ├── dashboard.php # User dashboard ├── deposit.php # Deposit money ├── withdraw.php # Withdraw money ├── loan.php # Loan application ├── update-pin.php # PIN update page ├── block-card.php # Card block request ├── assets/ # CSS, JS, images ├── db/ # Database scripts ├── includes/ # Config & utility files ├
